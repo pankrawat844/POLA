@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POLA</string>
+    <string name="directionsApiKey">AIzaSyAwLRzfr7JPD2Xo-jSTdMDV3xb5556O-qM</string>
+    <string name="title_activity_maps">POLA</string>
+</resources>
